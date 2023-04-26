@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Languages-C%23%20%7C%20Rust%20%7C%20Python-088F8F?style=for-the-badge&labelColor=4FC778" width="400" height="50"/>
+  <img src="https://img.shields.io/badge/Languages-C%23%20%7C%20Rust%20%7C%20Python-088F8F?style=for-the-badge&labelColor=4FC778" width="250" height="30"/>
   <a href="https://github.com/gpskwlkr/ova">
-    <img src="https://img.shields.io/badge/Projects-ova-088F8F?style=for-the-badge&labelColor=4FC778" width="200" height="50" />
+    <img src="https://img.shields.io/badge/Projects-ova-088F8F?style=for-the-badge&labelColor=4FC778" width="150" height="30" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-088F8F?style=for-the-badge&labelColor=4FC778" width="400" height="50"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-088F8F?style=for-the-badge&labelColor=4FC778" width="250" height="30"/>
 </p>
 
 <h1 align="center">Hi, I'm Gio 👋</h1>
