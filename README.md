@@ -32,10 +32,21 @@ I like to explore different programming languages and work on various projects, 
 
 <h4 align="center">Setup</h4>
 <div align="center">
-  <img alt="arch" src="https://img.shields.io/badge/Arch-077979?style=flat-square&logo=archlinux&logoColor=1793d1" width="80" height="30">
-  <img alt="neovim" src="https://img.shields.io/badge/Neovim-077979?style=flat-square&logo=neovim&logoColor=7ebf50" width="100" height="30">
-  <img alt="alacritty" src="https://img.shields.io/badge/Alacritty-077979?style=flat-square&logo=alacritty&logoColor=ffffff" width="100" height="30">
-  <img alt="spotify" src="https://img.shields.io/badge/Spotify-077979?style=flat-square&logo=spotify&logoColor=1DB954" width="100" height="30">
+  <a href="https://archlinux.org/">
+    <img alt="arch" src="https://img.shields.io/badge/Arch-077979?style=flat-square&logo=archlinux&logoColor=1793d1" width="80" height="30">
+  </a>
+  <a href="https://neovim.io/">
+    <img alt="neovim" src="https://img.shields.io/badge/Neovim-077979?style=flat-square&logo=neovim&logoColor=7ebf50" width="100" height="30">
+  </a>
+  <a href="https://github.com/wez/wezterm">
+    <img alt="wezterm" src="https://img.shields.io/badge/Wezterm-077979?style=flat-square&logo=wezterm&logoColor=ffffff" width="80" height="30">
+  </a>
+  <a href="https://starship.rs/">
+    <img alt="starship" src="https://img.shields.io/badge/Starship-077979?style=flat-square&logo=starship&logoColor=ffffff" width="100" height="30">
+  </a>
+  <a href="https://spotify.com">
+    <img alt="spotify" src="https://img.shields.io/badge/Spotify-077979?style=flat-square&logo=spotify&logoColor=1DB954" width="100" height="30">
+  </a>
 </div>
 
 <h4 align="center">📫 Reach me at:</h4>
