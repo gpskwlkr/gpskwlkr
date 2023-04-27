@@ -52,13 +52,13 @@ I like to explore different programming languages and work on various projects, 
 <h4 align="center">📫 Reach me at:</h4>
 <div align="center">
   <a href="https://twitter.com/gpskwlkr_">
-    <img alt="twitter" src="https://img.shields.io/badge/-@gpskwlkr-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" width="100" height="25">
+    <img alt="twitter" src="https://img.shields.io/badge/-@gpskwlkr-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" width="150" height="40">
   </a>
   <a href="https://stackoverflow.com/users/12341438/giorgi-anakidze">
-    <img alt="twitter" src="https://img.shields.io/badge/-@gpskwlkr-555555?logo=stackoverflow&logoColor=orange&style=for-the-badge" width="100" height="25">
+    <img alt="twitter" src="https://img.shields.io/badge/-@gpskwlkr-555555?logo=stackoverflow&logoColor=orange&style=for-the-badge" width="150" height="40">
   </a>
   <a href="https://www.linkedin.com/in/giorgi-anakidze/">
-    <img alt="twitter" src="https://img.shields.io/badge/-@gpskwlkr-0077b5?logo=linkedin&logoColor=white&style=for-the-badge" width="100" height="25">
+    <img alt="twitter" src="https://img.shields.io/badge/-@gpskwlkr-0077b5?logo=linkedin&logoColor=white&style=for-the-badge" width="150" height="40">
   </a>
 </div>
 
