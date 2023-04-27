@@ -18,7 +18,7 @@ I like to explore different programming languages and work on various projects, 
 
 <div align="center">
   <a href="https://github.com/gpskwlkr/ova">
-    <img alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=gpskwlkr&repo=ova&theme=vue-dark&bg_color=45,077979,088F8F">
+    <img alt="" src="https://github-readme-stats-gpskwlkr.vercel.app/api/pin/?username=gpskwlkr&repo=ova&theme=vue-dark&bg_color=45,077979,088F8F">
   </a>
 </div>
 
@@ -26,7 +26,7 @@ I like to explore different programming languages and work on various projects, 
 
 <div align="center">
   <a href="https://github.com/gpskwlkr">
-    <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=gpskwlkr&show_icons=true&theme=vue-dark&bg_color=45,077979,088F8F">
+    <img alt="stats" src="https://github-readme-stats-gpskwlkr.vercel.app/api?username=gpskwlkr&show_icons=true&theme=vue-dark&bg_color=45,077979,088F8F">
   </a>
 </div>
 
